@@ -23,7 +23,7 @@ build facebook&google&twitter => icons
 
 | Home Page | homepage2  |
 |------|-------|
-|<img src="asses/green.jpg" width="400">|<img src="assets/blue.jpg" width="400">|
+|<img src="assets/green.jpg" width="400">|<img src="assets/blue.jpg" width="400">|
 
 ## Other Flutter Projects
 - [Mobile Detail app](https://github.com/itsherifAhmed/device-detail-app)
